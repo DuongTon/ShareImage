@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- here name is : A URI path segment. To enforce security, this value hides the name of the subdirectory you're sharing. The subdirectory name for this value is contained in the path attribute.  -->
+    <!-- path is : The subdirectory you're sharing. While the name attribute is a URI path segment, the path value is an actual subdirectory name. Notice that the value refers to a subdirectory, not an individual file or files. You can't share a single file by its file name, nor can you specify a subset of files using wildcards.-->
+    <external-path
+        name="tweet_images"
+        path="Android/data/com.viking.shareimage/files/Pictures/TweetImages/" />
+
+    <!-- For more details check this link  :https://developer.android.com/reference/android/support/v4/content/FileProvider.html -->
+</paths>

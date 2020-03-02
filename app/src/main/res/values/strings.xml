@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ShareImage</string>
+    <string name="share_using_twitter_composer">Share using Twitter Composer</string>
+    <string name="share_using_tweeter_native_composer">Share using Tweeter Native Composer</string>
+</resources>
